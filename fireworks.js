@@ -6,9 +6,9 @@ const colors = [
     "#ff4cf1",
     "#ffffff"
 ];
-const letters = "✨Happy birthday✨";
-const nameLine1 = "Celamat Ulang Taun";
-const nameLine2 = "Pina :D";
+const letters = "✨✨";
+const nameLine1 = "Tiara Na Atu";
+const nameLine2 = ":D";
 let letterIndex = 0;
 
 // Muat suara
