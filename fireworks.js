@@ -8,7 +8,7 @@ const colors = [
 ];
 const letters = "✨✨";
 const nameLine1 = "Tiara Na Atu";
-const nameLine2 = ":D";
+const nameLine2 = "૮ ˶ᵔ ᵕ ᵔ˶ ა";
 let letterIndex = 0;
 
 // Muat suara
